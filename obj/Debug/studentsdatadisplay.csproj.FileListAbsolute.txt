@@ -1,0 +1,8 @@
+D:\mphasis\Day 12\studentsdatadisplay\studentsdatadisplay\obj\Debug\studentsdatadisplay.csproj.AssemblyReference.cache
+D:\mphasis\Day 12\studentsdatadisplay\studentsdatadisplay\obj\Debug\studentsdatadisplay.csproj.SuggestedBindingRedirects.cache
+D:\mphasis\Day 12\studentsdatadisplay\studentsdatadisplay\obj\Debug\studentsdatadisplay.csproj.CoreCompileInputs.cache
+D:\mphasis\Day 12\studentsdatadisplay\studentsdatadisplay\bin\Debug\studentsdatadisplay.exe.config
+D:\mphasis\Day 12\studentsdatadisplay\studentsdatadisplay\bin\Debug\studentsdatadisplay.exe
+D:\mphasis\Day 12\studentsdatadisplay\studentsdatadisplay\bin\Debug\studentsdatadisplay.pdb
+D:\mphasis\Day 12\studentsdatadisplay\studentsdatadisplay\obj\Debug\studentsdatadisplay.exe
+D:\mphasis\Day 12\studentsdatadisplay\studentsdatadisplay\obj\Debug\studentsdatadisplay.pdb
