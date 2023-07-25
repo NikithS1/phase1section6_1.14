@@ -7,7 +7,7 @@ namespace studentsdatadisplay
     {
         static void Main(string[] args)
         {
-            string filePath = @"D:\\mphasis\\Day 12\\studentsdatadisplay\\studentsdatadisplay\\students.txt\"; // Replace "students.txt" with your actual text file name if different
+            string filePath = @"D:\\mphasis\\Day 12\\studentsdatadisplay\\studentsdatadisplay\\students.txt\"; 
 
             try
             {
@@ -16,7 +16,7 @@ namespace studentsdatadisplay
                 Console.WriteLine("Student Data:");
                 Console.WriteLine("-------------");
 
-                // Skip the first line (header) and display student data line by line
+                // display student data line by line
                 for (int i = 1; i < lines.Length; i++)
                 {
                     string[] data = lines[i].Split(',');
